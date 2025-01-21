@@ -3453,10 +3453,10 @@ input::-moz-focus-inner {
 
 @media screen and (max-width: 600px) {
     .s-header__logo {
-        left: 4rem;
+        left: 7rem;
     }
     .s-header__menu-toggle {
-        right: 4rem;
+        right: 7rem;
     }
     .s-header__content {
         padding: calc(5 * var(--space)) 4rem var(--vspace-2);
