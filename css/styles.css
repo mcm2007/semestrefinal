@@ -4196,23 +4196,23 @@ html.no-csstransitions .s-hero__content {
 }
 
 .service-icon--branding {
-    background-image: url(../images/icons/services/icon-branding.svg);
+    background-image: url(../images/icons/services/scale.gif);
 }
 
 .service-icon--frontend {
-    background-image: url(../images/icons/services/icon-frontend.svg);
+    background-image: url(../images/icons/services/speed-limit.gif);
 }
 
 .service-icon--research {
-    background-image: url(../images/icons/services/icon-research.svg);
+    background-image: url(../images/icons/services/race.gif);
 }
 
 .service-icon--illustration {
-    background-image: url(../images/icons/services/icon-illustration.svg);
+    background-image: url(../images/icons/services/double-bed.gif);
 }
 
 .service-icon--ecommerce {
-    background-image: url(../images/icons/services/icon-ecommerce.svg);
+    background-image: url(../images/icons/services/under-construction.gif);
 }
 
 
