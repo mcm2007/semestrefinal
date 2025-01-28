@@ -4189,8 +4189,8 @@ html.no-csstransitions .s-hero__content {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-}
 
+    
 .service-icon--product-design {
     background-image: url(../images/icons/services/fuelpump.gif);
 }
@@ -4312,6 +4312,8 @@ html.no-csstransitions .s-hero__content {
 .folio-item__thumb img {
     vertical-align: bottom;
     margin-bottom: 0;
+    width: 3rem;
+    height: 3rem;
 }
 
 /* portfolio info
