@@ -4970,7 +4970,11 @@ html.no-csstransitions .s-hero__content {
 .video-motas {
     display: flex;
     justify-content: center; 
-    align-items: center;      
-    height: 100vh;           
-    background: none;         
+    align-items: center; 
+    height: 100vh;
+    width: 100%;
 }
+.video-wrapper {
+    background: none;
+  }
+  
