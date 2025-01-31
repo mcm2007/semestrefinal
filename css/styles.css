@@ -4967,7 +4967,10 @@ html.no-csstransitions .s-hero__content {
         font-size: 1.4rem;
     }
 }
-.video_mota {
-    width: 50%;
-    align-items: center;
+.video-motas {
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+    height: 100vh;           
+    background: none;         
 }
