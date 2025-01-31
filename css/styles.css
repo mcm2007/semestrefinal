@@ -4971,7 +4971,7 @@ html.no-csstransitions .s-hero__content {
     display: flex;
     justify-content: center; 
     align-items: center; 
-    height: 100vh;
+    height: 80vh;
     width: 100%;
 }
 .video-wrapper {
